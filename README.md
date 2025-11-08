@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Risha 👋</h1>
+<h1 align="center">Hi there, I'm Ahmed Shehab 👋</h1>
 
 <p align="center">
   <a href="https://github.com/risha700">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Continuous+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Software+Architect;DevOps+Engineer;Continuous+Learner;Open+Source+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -41,7 +41,7 @@ I'm a passionate software developer who loves building innovative solutions and 
   <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2E9FFF" alt="Docker" />
   <img src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2E9FFF" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2E9FFF" alt="AWS" />
-  <img src="https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=microsoft-azure&logoColor=white&color=2E9FFF" alt="Azure" />
+  <img src="https://img.shields.io/badge/Cloud-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=2E9FFF" alt="Oracle" />
 </p>
 
 ---
